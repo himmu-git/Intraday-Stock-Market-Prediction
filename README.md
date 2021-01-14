@@ -1,2 +1,4 @@
 # Machine_Learing
-In this repository Machine Learning Algorithms &amp; Project
+In this repository Machine Learning Project.
+
+1. 
